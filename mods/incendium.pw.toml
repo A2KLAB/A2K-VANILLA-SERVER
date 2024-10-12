@@ -1,0 +1,9 @@
+name = "Incendium"
+filename = "Incendium_1.21_DIRECT_PORT_v5.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/738046951236567165/1293694583594815509/Incendium_1.21_DIRECT_PORT_v5.4.2.jar?ex=670af178&is=67099ff8&hm=3fbc5eaa52e55a348af07d01aca368c39b78ae4f36a862b157609e8915346a0d&"
+
+hash-format = "sha256"
+hash = "B5391A59F6442EFC43C975BA55DA9805F6D108A70ADBDAD44A35D93D6297E566"

@@ -1,0 +1,175 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/yosbr/server.properties"
+hash = "42c91d46242192bb0dd322dc65c1388976fdc1e939102f9df0be3daef9a33a1a"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "9460d497d821c589a08bbec71b094ce4fd8540324ee9a3f95aecc5ea1cb6399f"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "341dda916c32ec8328c6c41d91bc6ad41b5d78f62346aa05a8e6e4642bd45b41"
+metafile = true
+
+[[files]]
+file = "mods/bluemap-offline-player-markers-(fabric).pw.toml"
+hash = "ed3f458209490e7412c88b4a2f20db718e1975e82bb8f2da49f8de679858894c"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "9d6b8f4b1556a71e69b5cd3821d85e19fba9d69dc344ceeb3f93d2edf3e1e8db"
+metafile = true
+
+[[files]]
+file = "mods/calm-down-dog.pw.toml"
+hash = "5a69918f3346b5ff2f7c2cde5bca06c8addef0084703b61e941f47f0280270c1"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "8d3bd79b5dcb781507857f857b2a0c78cd31ea489f19444ab63cf429d2a64d03"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "24f87a24cbb7c3dc7b8cff371d732464ee80b456aa6f0772a561939aec5299bb"
+metafile = true
+
+[[files]]
+file = "mods/dismount-entity.pw.toml"
+hash = "b725bd96844d15a5e9017ab0ac09154014206c6918ebc3b83dcdbe0726a05bc1"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "447ec530620e3c0da62316cb3358e43c15132084aab22ba992fefac199ca92a9"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "c03848ab316f8f8e07656e08c675541ce90f0ad729d5b31df336fe8f27a58b3f"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "64555abb4588840d78ca5a21d98312f9cb080cd6d044685db7741948e47b48bd"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "13aac727562e5187d82f218db7ff0b5b031dd147e821f9905daffd16435cc20c"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "f37f04192a577eb70673df34e2e73ccef962443f913e38fd6bcb21a0a465f9e5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f79a3cdea893a12fa0955186df68681016f5b98d94d31e8ea59fa250465578f6"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "5ca392cf6ef19f056bd3f880f3b15322d3e327312671236737344d319d6c742b"
+metafile = true
+
+[[files]]
+file = "mods/healing-campfire.pw.toml"
+hash = "40ef23a01d5b85b0d8cc09058b5c8b1ebd75d31120d2beac7e55635d21bac0ba"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "150acf1a79f479770b5141dd63f9953220b3b438803bf4beb9cfbd82b56525a3"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "dc0d302a26c3ac5938db1eeda1cb9be0e56ed1dd1861c3f9c61810bebc19c557"
+metafile = true
+
+[[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "0220080e63da514cdfd5ff73355572eba1ebb0202951e12f95740ce413912fb2"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "8eac0abff0a3b5284f6a1e8b27ab8ff7b2f545bbaad8d401b4e34a86f55f21a1"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "40099e8b4fddb92f5398eb92aef469278fc4201a5221701be7592d7314209eed"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "d9588ceb844d29e59289753dab253795fac332beb8cf21dbf3403e38ce145702"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "c842b9be38770297d34ec4be829f4c38fa6cb0b3f804f340f66a1cae2b1bdae6"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "14fee1cdae5aa6ea35cc1ed977395f513d13a5d625e481ba7aec5982cad00c4d"
+metafile = true
+
+[[files]]
+file = "mods/stevesrealisticsleep.pw.toml"
+hash = "c8dda891953d401900fd872538da1227679be434e060d4ad6686405fce9931fe"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "5203a47d7ebe12052184b607184c71f66f32283d9de62399cc87a51f10abd8a2"
+metafile = true
+
+[[files]]
+file = "mods/tool-trims.pw.toml"
+hash = "405d5102dc84d1e3a041a5c12e7be8ec970b5a5fc89b30503b8c840464015c9d"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "695176ca996e639044d0d526cd6c56a95c9897e85e7a8119a2d14a712f755733"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "43ee931783d3a5ea0adf0ed5d83d2f4886d8d0872d947bad6007d36b018bc11e"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "3942336a95a1305419b9f1ab7aabd0df1b78d3c7b9c2caf8edef7438fcd1c42b"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "d02a8a94ab9de943ee0e07a9e68b15fccbfedbf7a7662df18276401c0812cb19"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
