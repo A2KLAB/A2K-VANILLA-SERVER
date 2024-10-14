@@ -55,6 +55,11 @@ hash = "447ec530620e3c0da62316cb3358e43c15132084aab22ba992fefac199ca92a9"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "ca6e52b8a96c4ce864f14c29a7a3b63f7a53b9b4d5e81ed45cff26ebd9bca5e9"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "c03848ab316f8f8e07656e08c675541ce90f0ad729d5b31df336fe8f27a58b3f"
 metafile = true
