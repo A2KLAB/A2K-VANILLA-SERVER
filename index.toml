@@ -15,16 +15,6 @@ hash = "341dda916c32ec8328c6c41d91bc6ad41b5d78f62346aa05a8e6e4642bd45b41"
 metafile = true
 
 [[files]]
-file = "mods/bluemap-offline-player-markers-(fabric).pw.toml"
-hash = "ed3f458209490e7412c88b4a2f20db718e1975e82bb8f2da49f8de679858894c"
-metafile = true
-
-[[files]]
-file = "mods/bluemap.pw.toml"
-hash = "9d6b8f4b1556a71e69b5cd3821d85e19fba9d69dc344ceeb3f93d2edf3e1e8db"
-metafile = true
-
-[[files]]
 file = "mods/calm-down-dog.pw.toml"
 hash = "5a69918f3346b5ff2f7c2cde5bca06c8addef0084703b61e941f47f0280270c1"
 metafile = true
@@ -117,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "8eac0abff0a3b5284f6a1e8b27ab8ff7b2f545bbaad8d401b4e34a86f55f21a1"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "3739d21435e3d341fd161b2a3c0af7a447a0abb14aac148dc5e5890929c72ee0"
 metafile = true
 
 [[files]]
