@@ -1,6 +1,7 @@
 name = "Monsters in the Closet"
 filename = "monsters-in-the-closet-1.0.3+1.21.jar"
 side = "both"
+enabled = false
 
 [download]
 url = "https://cdn.modrinth.com/data/GMA8jFBD/versions/iBLoBKBc/monsters-in-the-closet-1.0.3%2B1.21.jar"

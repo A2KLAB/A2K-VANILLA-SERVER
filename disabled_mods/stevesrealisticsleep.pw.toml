@@ -1,0 +1,14 @@
+name = "Steve's Realistic Sleep"
+filename = "stevesrealisticsleep-fabric-1.11.2+mc1.21-1.21.1.jar"
+side = "server"
+enabled = false
+
+[download]
+url = "https://cdn.modrinth.com/data/ZPywkPEo/versions/T1vxZAJQ/stevesrealisticsleep-fabric-1.11.2%2Bmc1.21-1.21.1.jar"
+hash-format = "sha512"
+hash = "bf01933c9a3ed38b8b7053809f268c8bba13a3b69fba59cdff265c37a78c88d0b77a9b37c6a1458c5f9cee065c0b88df9f44cbafbe71d0f7b8ce1608e175dc05"
+
+[update]
+[update.modrinth]
+mod-id = "ZPywkPEo"
+version = "T1vxZAJQ"
