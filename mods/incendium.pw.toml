@@ -1,9 +1,13 @@
 name = "Incendium"
-filename = "Incendium_1.21_DIRECT_PORT_v5.4.2.jar"
+filename = "Incendium_1.21.x_v5.4.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/738046951236567165/1293694583594815509/Incendium_1.21_DIRECT_PORT_v5.4.2.jar?ex=670af178&is=67099ff8&hm=3fbc5eaa52e55a348af07d01aca368c39b78ae4f36a862b157609e8915346a0d&"
+url = "https://cdn.modrinth.com/data/ZVzW5oNS/versions/7mVvV9Th/Incendium_1.21.x_v5.4.4.jar"
+hash-format = "sha512"
+hash = "ca897be9059ea691860715dac6c0ccd934720d7d42c8af45b95257e8f91a6c9470f506bfb9ef3c770e6a6c57e58885add2126150a35927848817433fd227ce0e"
 
-hash-format = "sha256"
-hash = "B5391A59F6442EFC43C975BA55DA9805F6D108A70ADBDAD44A35D93D6297E566"
+[update]
+[update.modrinth]
+mod-id = "ZVzW5oNS"
+version = "7mVvV9Th"
