@@ -1,16 +1,16 @@
 name = "A2K-VANILLA-SERVER"
 author = "A2KLAB"
-version = "1.2.1"
+version = "1.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2df89ad27505d2e9969b733d9392aa5c391a40e23bd905a27904f6b6397899ec"
+hash = "739183afda464081d20bc69ede91e10dfe0ed7b1edf95d2f33817d5c19b16adc"
 
 [versions]
-fabric = "0.16.9"
-minecraft = "1.21.1"
+fabric = "0.16.14"
+minecraft = "1.21.5"
 
 [options]
-acceptable-game-versions = ["1.21", "1.21.1"]
+acceptable-game-versions = ["1.21.5"]
