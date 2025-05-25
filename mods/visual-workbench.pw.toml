@@ -1,13 +1,13 @@
 name = "Visual Workbench"
-filename = "VisualWorkbench-v21.1.0-1.21.1-Fabric.jar"
+filename = "VisualWorkbench-v21.5.0-1.21.5-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kfqD1JRw/versions/c1Cea0fX/VisualWorkbench-v21.1.0-1.21.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/kfqD1JRw/versions/GLNQXUBq/VisualWorkbench-v21.5.0-1.21.5-Fabric.jar"
 hash-format = "sha512"
-hash = "28deee8f9771cf8cd5cf8f5a7b786afaf67804b97b4c937186b373b5730902b2f0d1b952193c0db84b86f5e563655367a74f043918ccb5a824d0788bdf64bee1"
+hash = "971c2ab58ccf9bf10589778ca1c8a31058b96ee59815e1fb3baff6854cf630ce56148b6827b4385a99923554beff85fb90206bfae1606f71760eb50bf083278c"
 
 [update]
 [update.modrinth]
 mod-id = "kfqD1JRw"
-version = "c1Cea0fX"
+version = "GLNQXUBq"
